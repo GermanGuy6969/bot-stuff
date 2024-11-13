@@ -10,7 +10,7 @@
         \/       \/                     \/  
                     
 DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+YouTube : https://www.youtube.com/@Cool_Techno_Kitty                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
@@ -94,7 +94,7 @@ login();
         \/       \/                     \/  
                     
 DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+YouTube : https://www.youtube.com/@Cool_Techno_kitty                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
