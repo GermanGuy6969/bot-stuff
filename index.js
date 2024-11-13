@@ -9,7 +9,7 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
+DISCORD :  https://discord.gg/uMwqQDYbZY                   
 YouTube : https://www.youtube.com/@Cool_Techno_Kitty                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
@@ -93,7 +93,7 @@ login();
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
+DISCORD :  https://discord.gg/uMwqQDYbZY                 
 YouTube : https://www.youtube.com/@Cool_Techno_kitty                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
