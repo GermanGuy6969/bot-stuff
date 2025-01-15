@@ -9,7 +9,7 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.gg/uMwqQDYbZY                   
+DISCORD :  https://discord.gg/                 
 YouTube : https://www.youtube.com/@Cool_Techno_Kitty                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
