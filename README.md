@@ -22,7 +22,7 @@
       alt="YouTube" />
   </a>
 
-  <a href="https://discord.gg/">
+  <a href="https://discord.gg/8JPs9dRrr2">
     <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
       alt="Join Discord" />
   </a>
