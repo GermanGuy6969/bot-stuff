@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["hi im a bot", "why are you looking at me?", "You're still looking at me"];
-const statusTypes = [ 'dnd', 'idle', 'online'];
+const statusTypes = [ 'online', 'online', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
